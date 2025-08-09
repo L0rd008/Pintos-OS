@@ -1,6 +1,6 @@
 # Pintos Operating System Project
 
-**Author:** Psindu Senevirathne  
+**Author:** Pasindu Senevirathne  
 **Course:** Operating Systems  
 **Institution:** University of Moratuwa  
 **Semester:** Third Semester  
